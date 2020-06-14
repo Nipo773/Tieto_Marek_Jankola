@@ -1,0 +1,11 @@
+My name is Marek Jankola, I am author of this project. I completed both task in ML area. Whole first task is completed in Tieto_internship1 
+PDF file. The jupyter notebook and datasets to this project are added as well. 
+
+Second task is completed in Tieto_internship2 PDF file. As for the first project, I added jupyter notebook for this project as well. Dataset is in X_and_O folder.
+
+Source code for application from second task is in X_and_O folder. The manual to run the application and all comments to it are in
+Tieto_internship2.pdf.
+
+Thanks for this opprtunity,
+Sincerelly,
+Marek Jankola
